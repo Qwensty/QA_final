@@ -9,7 +9,7 @@ QA_final/
 │   ├── __init__.py
 │   ├── base_page.py        # Базовый класс для всех страниц
 │   ├── main_page.py        # Главная страница
-│   ├── movie_page.py       # Страница фильма
+│   
 ├── tests/                  # Тесты
 │   ├── __init__.py
 │   ├── test_ui.py          # UI-тесты
